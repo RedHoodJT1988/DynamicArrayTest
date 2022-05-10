@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicArrayTest", "DynamicArrayTest\DynamicArrayTest.vcxproj", "{9CF9B3D9-1548-4A97-9831-5F731C2D3903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF9B3D9-1548-4A97-9831-5F731C2D3903}.Debug|x64.ActiveCfg = Debug|x64
+		{9CF9B3D9-1548-4A97-9831-5F731C2D3903}.Debug|x64.Build.0 = Debug|x64
+		{9CF9B3D9-1548-4A97-9831-5F731C2D3903}.Debug|x86.ActiveCfg = Debug|Win32
+		{9CF9B3D9-1548-4A97-9831-5F731C2D3903}.Debug|x86.Build.0 = Debug|Win32
+		{9CF9B3D9-1548-4A97-9831-5F731C2D3903}.Release|x64.ActiveCfg = Release|x64
+		{9CF9B3D9-1548-4A97-9831-5F731C2D3903}.Release|x64.Build.0 = Release|x64
+		{9CF9B3D9-1548-4A97-9831-5F731C2D3903}.Release|x86.ActiveCfg = Release|Win32
+		{9CF9B3D9-1548-4A97-9831-5F731C2D3903}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854C13AD-77EB-45F3-90F9-F840DD6C4229}
+	EndGlobalSection
+EndGlobal
